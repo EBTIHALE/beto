@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(197, 186, 207);
+    color: black;
+}
+label{
+    background-color: rgb(98, 84, 112);
+}
+table{
+    background-color: rgb(146, 73, 110);
+    margin-left: 10%;
+}
+h1{
+    background-color: rgb(245, 212, 218);
+    color: brown;
+}
+h2{
+    background-color: rgb(167, 139, 144);
+    color: rgb(116, 67, 76);
+
+}
+input{
+    background-color: rgb(226, 213, 226);
+}
